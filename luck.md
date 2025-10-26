@@ -1,7 +1,3 @@
----
-layout: default
----
-
 <style>
 body {
     max-width: 100%;
