@@ -868,7 +868,7 @@ plt.show()
 
 
     
-![png](luck_medium_files/luck_medium_24_0.png)
+![png](luck_files/luck_medium_24_0.png)
     
 
 
@@ -1101,7 +1101,7 @@ plt.show()
 
 
     
-![png](luck_medium_files/luck_medium_28_0.png)
+![png](luck_files/luck_medium_28_0.png)
     
 
 
@@ -1293,7 +1293,7 @@ plt.show()
 
 
     
-![png](luck_medium_files/luck_medium_32_0.png)
+![png](luck_files/luck_medium_32_0.png)
     
 
 
@@ -1637,7 +1637,7 @@ plt.show()
 
 
     
-![png](luck_medium_files/luck_medium_41_0.png)
+![png](luck_files/luck_medium_41_0.png)
     
 
 
@@ -2057,7 +2057,7 @@ plt.show()
 
 
     
-![png](luck_medium_files/luck_medium_46_0.png)
+![png](luck_files/luck_medium_46_0.png)
     
 
 
