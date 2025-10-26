@@ -4,7 +4,7 @@ Welcome! This site features data analysis and insights about the NHL.
 
 ## Articles & Analysis
 
-### [The NHL's Lucky Charm](luck_medium.md)
+### [The NHL's Lucky Charm](luck_medium.html)
 An in-depth statistical analysis exploring luck versus skill in NHL performance, examining metrics like PDO, shooting percentages, and goal differentials to identify the league's luckiest players.
 
 ---

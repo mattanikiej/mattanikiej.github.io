@@ -1,3 +1,7 @@
+---
+layout: none
+---
+
 # The NHL's Lucky Charm
 
 I've been wanting to explore which player is a "lucky charm" for their team. Not necessarily which player is getting lucky, but which player is causing his **team** to get lucky. Just how great players make their teammates better by setting them up beautifully, or scoring goals off any pass, lucky charm players make their teammates better by just being on the same team as them! "Puck luck" and "lucky bounces" are always talked about in hockey and it's an intangible part of the game, but let's try to quantify it anyway!
