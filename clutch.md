@@ -1,4 +1,4 @@
-# Calculating Clutch: The Most Clutch Player in NHL History
+# Calculating Clutch: Finding he Most Clutch Player in NHL History
 
 When the lights are at their brightest, hockey's greatest stars shine in ways that mesmerize and blow your mind. Those exciting plays that dominant players make, ones that show just how much better they are than anyone else on the ice, are what keep us all glued to our TVs, waiting to see what happens next. The plays that stick with us more than any other, are always the ones with the highest implications. An overtime goal, a game 7 victory, or even a miraculous comeback. Those moments are seared into hockey history, and live on forever in peoples' memories.
 
